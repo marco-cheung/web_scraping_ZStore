@@ -7,3 +7,7 @@ Although web scraping is an effective way to collect data from other websites, *
 
 ## Just for fun
 As a e-shopaholic, I found myself excited to scrap product information from one of my favourite grocery shopping websites (Ztore 士多) in Hong Kong. This is also my first time to write a Python program using related packages and it is amazing to see how it works :)
+
+
+## Link to Jupyter Notebook
+https://github.com/marco-cheung/web_scraping_experiment/blob/master/web_scraping_on_ecommerce_grocery_website.ipynb
